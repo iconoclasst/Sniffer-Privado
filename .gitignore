@@ -1,3 +1,4 @@
 subir.sh
 *.pcap
 *.csv
+__pycache__
