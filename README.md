@@ -1,8 +1,9 @@
 # Sniffer Privado
 
-Sniffer de rede em Python utilizando Scapy com foco em anonimização de dados sensíveis antes da análise.
+Sniffer de rede em Python utilizando Scapy para posterior anonimização de pacotes.  
 
-O projeto captura pacotes da rede, extrai features principais e aplica técnicas simples de privacidade, como:
+Captura de pacotes de rede, extração de features principais e aplicação de técnicas simples de ofuscação.  
+Alterações feitas:  
 - remoção de identificadores diretos
 - generalização de portas
 - generalização de tamanho de pacotes
