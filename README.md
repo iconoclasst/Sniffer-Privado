@@ -1,5 +1,7 @@
 # Sniffer Privado
 
+Obs: O foco desse projeto é praticar ofuscação, usando como dados os pacotes capturados. Os métodos abordados podem não ser os mais indicados para pacotes e redes no geral.  
+
 Sniffer de rede em Python utilizando Scapy para posterior anonimização de pacotes.  
 
 Captura de pacotes de rede, extração de features principais e aplicação de técnicas simples de ofuscação.  
